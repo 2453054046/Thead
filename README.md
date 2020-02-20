@@ -1,2 +1,2 @@
 # Thread
-线程demo
+线程知识点
